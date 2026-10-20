@@ -1,0 +1,1 @@
+{"name":"@marte/web","version":"0.1.0","type":"module","scripts":{"dev":"vite","build":"vite build"},"dependencies":{"@marte/core":"*","@marte/infrastructure":"*","@marte/renderer":"*"},"devDependencies":{"vite":"^5.4.0"}}
